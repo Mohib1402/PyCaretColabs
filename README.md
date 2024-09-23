@@ -1,4 +1,3 @@
-Here's how you can organize the README based on the Colab tutorials you've listed and your YouTube video parts:
 # PyCaret Tutorials: Low-Code Machine Learning
 
 ## Overview
